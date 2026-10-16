@@ -66,7 +66,8 @@ This project demonstrates how Power BI can be used for **data visualization, KPI
 
 ## 7. Dashboard Preview
 https://github.com/varshiniambati143-52/Data-analysis-dashboard-/blob/main/varshi%20dash.jpeg
-
+Dashboard
+https://github.com/varshiniambati143-52/Data-analysis-dashboard-/blob/main/sales%20and%20analysis%20varsh.pbix
 ---
 
 ## 8. Conclusion
